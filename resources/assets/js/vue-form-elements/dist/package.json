@@ -1,0 +1,14 @@
+{
+  "name": "vue-form-elements",
+  "version": "1.1.9",
+  "description": "A set of classes and components to use in a form",
+  "author": "Alex Chavet <alex@bbe.io> (https://www.bbe.io)",
+  "license": "MIT",
+  "keywords": [],
+  "main": "dist/index.js",
+  "jsnext:main": "dist/index.es.js",
+  "dependencies": {
+    "axios": "^0.18",
+    "babel-runtime": "^6.11.6"
+  }
+}

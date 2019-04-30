@@ -1,0 +1,13 @@
+{
+    "name": "vue-form-elements",
+    "version": "1.0.1",
+    "description": "A set of classes and components to use in a form",
+    "main": "index.js",
+    "jsnext:main": "index.mjs",
+    "browser": "index.browser.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+}
